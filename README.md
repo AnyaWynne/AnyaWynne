@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Anya Wynne
+- 👀 I’m interested in learning new skills in web development
+- 🌱 I’m currently learning python and react
+- 📫 You can reach me at: avkwynne@gmail.com
