@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Anya Wynne
 - 👀 I’m interested in learning new skills in web development
-- 🌱 I’m currently learning python and react
+- 🌱 I’m currently working as a QA engineer at Watchtower-Security
 - 📫 You can reach me at: avkwynne@gmail.com
